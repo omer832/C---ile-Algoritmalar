@@ -1,0 +1,3 @@
+O(n)kare sonucu: 702858913
+O(n) sonucu: 702858913
+O(n) cok daha hizli calisiyor.
